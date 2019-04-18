@@ -1,16 +1,3 @@
-#! /usr/bin/env python
-# coding=utf-8
-#================================================================
-#   Copyright (C) 2019 * Ltd. All rights reserved.
-#
-#   Editor      : VIM
-#   File name   : dataset.py
-#   Author      : YunYang1994
-#   Created date: 2019-01-19 22:43:26
-#   Description :
-#
-#================================================================
-
 import cv2
 import numpy as np
 from core import utils
