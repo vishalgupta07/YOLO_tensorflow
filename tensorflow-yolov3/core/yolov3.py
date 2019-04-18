@@ -1,16 +1,3 @@
-#! /usr/bin/env python3
-# coding=utf-8
-#================================================================
-#   Copyright (C) 2018 * Ltd. All rights reserved.
-#
-#   Editor      : VIM
-#   File name   : yolov3.py
-#   Author      : YunYang1994
-#   Created date: 2018-11-21 18:41:35
-#   Description : YOLOv3: An Incremental Improvement
-#
-#================================================================
-
 import tensorflow as tf
 from core import common
 slim = tf.contrib.slim
