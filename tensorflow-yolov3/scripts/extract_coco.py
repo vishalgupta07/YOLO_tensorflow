@@ -1,16 +1,3 @@
-#! /usr/bin/env python
-# coding=utf-8
-#================================================================
-#   Copyright (C) 2018 * Ltd. All rights reserved.
-#
-#   Editor      : VIM
-#   File name   : extract_coco.py
-#   Author      : YunYang1994
-#   Created date: 2018-12-07 15:12:25
-#   Description :
-#
-#================================================================
-
 import os
 import sys
 import json
