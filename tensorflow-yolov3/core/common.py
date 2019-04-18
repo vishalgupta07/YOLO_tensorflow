@@ -1,16 +1,3 @@
-#! /usr/bin/env python3
-# coding=utf-8
-#================================================================
-#   Copyright (C) 2018 * Ltd. All rights reserved.
-#
-#   Editor      : VIM
-#   File name   : common.py
-#   Author      : YunYang1994
-#   Created date: 2018-11-20 10:22:32
-#   Description : some basical layer for daraknet53 and yolov3
-#
-#================================================================
-
 import tensorflow as tf
 slim = tf.contrib.slim
 
