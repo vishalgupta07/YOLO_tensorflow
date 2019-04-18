@@ -1,16 +1,3 @@
-#! /usr/bin/env python
-# coding=utf-8
-#================================================================
-#   Copyright (C) 2019 * Ltd. All rights reserved.
-#
-#   Editor      : VIM
-#   File name   : fuck.py
-#   Author      : YunYang1994
-#   Created date: 2019-01-23 10:21:50
-#   Description :
-#
-#================================================================
-
 import numpy as np
 import tensorflow as tf
 from PIL import Image
