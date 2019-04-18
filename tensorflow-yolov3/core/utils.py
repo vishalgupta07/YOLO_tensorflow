@@ -1,16 +1,3 @@
-#! /usr/bin/env python
-# coding=utf-8
-#================================================================
-#   Copyright (C) 2018 * Ltd. All rights reserved.
-#
-#   Editor      : VIM
-#   File name   : utils.py
-#   Author      : YunYang1994
-#   Created date: 2018-11-22 12:02:52
-#   Description :
-#
-#================================================================
-
 import colorsys
 import numpy as np
 import tensorflow as tf
