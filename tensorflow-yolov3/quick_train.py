@@ -1,16 +1,3 @@
-#! /usr/bin/env python
-# coding=utf-8
-#================================================================
-#   Copyright (C) 2019 * Ltd. All rights reserved.
-#
-#   Editor      : VIM
-#   File name   : quick_train.py
-#   Author      : YunYang1994
-#   Created date: 2019-01-21 14:46:26
-#   Description :
-#
-#================================================================
-
 import tensorflow as tf
 from core import utils, yolov3
 from core.dataset import dataset, Parser
