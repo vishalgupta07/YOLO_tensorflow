@@ -1,16 +1,3 @@
-#! /usr/bin/env python
-# coding=utf-8
-#================================================================
-#   Copyright (C) 2018 * Ltd. All rights reserved.
-#
-#   Editor      : VIM
-#   File name   : nms_demo.py
-#   Author      : YunYang1994
-#   Created date: 2018-11-27 13:02:17
-#   Description :
-#
-#================================================================
-
 import time
 import numpy as np
 import tensorflow as tf
