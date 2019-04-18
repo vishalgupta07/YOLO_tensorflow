@@ -1,16 +1,3 @@
-#! /usr/bin/env python
-# coding=utf-8
-#================================================================
-#   Copyright (C) 2018 * Ltd. All rights reserved.
-#
-#   Editor      : VIM
-#   File name   : convert_tfrecord.py
-#   Author      : YunYang1994
-#   Created date: 2018-12-18 12:34:23
-#   Description :
-#
-#================================================================
-
 import sys
 import argparse
 import numpy as np
