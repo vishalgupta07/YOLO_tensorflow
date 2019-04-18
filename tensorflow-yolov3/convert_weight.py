@@ -1,16 +1,3 @@
-#! /usr/bin/env python
-# coding=utf-8
-#================================================================
-#   Copyright (C) 2018 * Ltd. All rights reserved.
-#
-#   Editor      : VIM
-#   File name   : convert_weight.py
-#   Author      : YunYang1994
-#   Created date: 2018-11-27 12:37:22
-#   Description :
-#
-#================================================================
-
 import os
 import sys
 import wget
